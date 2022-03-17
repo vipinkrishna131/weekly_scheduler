@@ -1,0 +1,4 @@
+#Thu Mar 17 12:42:54 IST 2022
+base.0=/Users/vipin/Documents/Flutter/Projects/weekly_schedular/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
